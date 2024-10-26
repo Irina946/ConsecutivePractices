@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practice</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="listTitle">Список</string>
+    <string name="HomeTitle">Дом</string>
+    <string name="ViewTitle">Просмотр</string>
+    <string name="NotificationTitle">Уведомления</string>
+    <string name="fragment_home">fragment_home</string>
+    <string name="fragment_view">fragment_view</string>
+    <string name="notification">notification</string>
+    <string name="fragment_list">fragment_list</string>
+</resources>
